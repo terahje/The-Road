@@ -27,6 +27,8 @@ This project is a mock travel website, greeting you with an inviting landing pag
 
 ## Credits
 
+Code and Create
+
 ## Questions :question:
 
 For further questions on this project or future collaboration contact me at:<br>
